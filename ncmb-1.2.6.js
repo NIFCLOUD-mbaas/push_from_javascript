@@ -4,7 +4,7 @@
  * Build: 04.2015 
  * http://www.nifty.com
  *
- * Copyright (c) 2014, NIFTY Corporation. All rights reserved.
+ * Copyright (c) 2017, FUJITSU CLOUD TECHNOLOGIES LIMITED. All rights reserved.
  * The NCMB JavaScript SDK is freely distributable under the MIT license.
  *
  * Created based on the following Javascript libraries.
